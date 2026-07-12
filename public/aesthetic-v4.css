@@ -150,8 +150,8 @@ html[data-lang="en"] h1 {
   min-height: 0;
   margin-bottom: 38px;
   color: color-mix(in srgb, var(--ink) 73%, transparent);
-  font-size: clamp(18px, 1.48vw, 20px);
-  line-height: 1.8;
+  font-size: clamp(28px, 2.35vw, 30px);
+  line-height: 1.42;
 }
 
 .button {
@@ -591,4 +591,5 @@ html[data-lang="zh"] .publication-year-group .publication-list a + a {
     padding: 34px 0;
   }
 }
+
 
